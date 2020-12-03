@@ -3,7 +3,7 @@
 
 ## 기능
 - 크기 조절 
-- 그리기 및 채우기
+- 그리기, 및 채우기
 - 색 선택 및 두께 조절
 - 초기화 또는 그림 저장
 
@@ -11,7 +11,7 @@
 - Front-End : Vanila JavaScript
 - Back-End : 없음
 - Database : 없음
-- Deployed : Heroku
+- Deployed : github.io
 
 ## Start
 1. 레포지토리의 소스코드 pull
